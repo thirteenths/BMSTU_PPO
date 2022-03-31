@@ -1,3 +1,3 @@
 # BMSTU_PPO
 
-Meeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeh
+Название проекта
